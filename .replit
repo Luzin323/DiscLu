@@ -1,0 +1,6 @@
+language="bash"
+run="""
+while true; do
+./luvit main
+done
+""" 
